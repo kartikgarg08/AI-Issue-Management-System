@@ -1,0 +1,163 @@
+{
+  "Teams": [
+    {
+      "Server_Team": [
+        {
+          "Team_id": "1",
+          "Team_Name": "Server_Team",
+          "Person_A": "2",
+          "Person_B": "2",
+          "Total_issues": "1",
+          "Issues_Assigned": {
+            "Person_B": {
+              "Before": "1",
+              "After": "2"
+            },
+            "Person_A": {
+              "Before": "2",
+              "After": "2"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Network_Team": [
+        {
+          "Team_id": "2",
+          "Team_Name": "Network_Team",
+          "Person_C": "3",
+          "Person_D": "2",
+          "Total_issues": "1",
+          "Issues_Assigned": {
+            "Person_D": {
+              "Before": "1",
+              "After": "2"
+            },
+            "Person_C": {
+              "Before": "3",
+              "After": "3"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Storage_Team": [
+        {
+          "Team_id": "3",
+          "Team_Name": "Storage_Team",
+          "Person_E": "1",
+          "Person_F": "1",
+          "Total_issues": "1",
+          "Issues_Assigned": {
+            "Person_E": {
+              "Before": "0",
+              "After": "1"
+            },
+            "Person_F": {
+              "Before": "1",
+              "After": "1"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Voice_Team": [
+        {
+          "Team_id": "4",
+          "Team_Name": "Voice_Team",
+          "Person_G": "3",
+          "Person_H": "3",
+          "Total_issues": "1",
+          "Issues_Assigned": {
+            "Person_G": {
+              "Before": "2",
+              "After": "3"
+            },
+            "Person_H": {
+              "Before": "3",
+              "After": "3"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Data_Team": [
+        {
+          "Team_id": "5",
+          "Team_Name": "Data_Team",
+          "Person_I": "1",
+          "Person_J": "2",
+          "Total_issues": "1",
+          "Issues_Assigned": {
+            "Person_I": {
+              "Before": "0",
+              "After": "1"
+            },
+            "Person_J": {
+              "Before": "2",
+              "After": "2"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Applications_Team": [
+        {
+          "Team_id": "6",
+          "Team_Name": "Applications_Team",
+          "Person_K": "3",
+          "Person_L": "1",
+          "Total_issues": "2",
+          "Issues_Assigned": {
+            "Person_K": {
+              "Before": "1",
+              "After": "3"
+            },
+            "Person_L": {
+              "Before": "1",
+              "After": "1"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "General_Support": [
+        {
+          "Team_id": "7",
+          "Team_Name": "General_Support",
+          "Person_M": "3",
+          "Person_N": "3",
+          "Total_issues": "3",
+          "Issues_Assigned": {
+            "Person_N": {
+              "Before": "1",
+              "After": "3"
+            },
+            "Person_M": {
+              "Before": "2",
+              "After": "3"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Miscellaneous": [
+        {
+          "Team_id": "8",
+          "Team_Name": "Miscellaneous",
+          "Person_M": "2",
+          "Person_N": "1",
+          "Total_issues": "0",
+          "Issues_Assigned": {}
+        }
+      ]
+    }
+  ]
+}

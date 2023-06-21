@@ -1,0 +1,104 @@
+{
+  "Teams": [
+    {
+      "ID": "1",
+      "Issue ID": "1",
+      "Issue Title": "\"Server Connection Timeout\"",
+      "Reported Time": "\"2023-05-11 10:30:00\"",
+      "Owner": "\"John\"",
+      "Description": "\"The server connection times out frequently",
+      "Category": "Server_Team",
+      "Priority": "P2"
+    },
+    {
+      "ID": "2",
+      "Issue ID": "2",
+      "Issue Title": "\"Network Slowdown\"",
+      "Reported Time": "\"2023-05-11 11:15:00\"",
+      "Owner": "\"Emily\"",
+      "Description": "\"The network performance is significantly slower than usual",
+      "Category": "Network_Team",
+      "Priority": "P2"
+    },
+    {
+      "ID": "3",
+      "Issue ID": "3",
+      "Issue Title": "\"Storage Space Exhausted\"",
+      "Reported Time": "\"2023-05-11 12:00:00\"",
+      "Owner": "\"Mark\"",
+      "Description": "\"The storage capacity has reached its limit",
+      "Category": "Storage_Team",
+      "Priority": "P3"
+    },
+    {
+      "ID": "4",
+      "Issue ID": "4",
+      "Issue Title": "\"Voice Calls Dropping\"",
+      "Reported Time": "\"2023-05-11 13:30:00\"",
+      "Owner": "\"Sarah\"",
+      "Description": "\"During voice calls",
+      "Category": "Voice_Team",
+      "Priority": "P2"
+    },
+    {
+      "ID": "5",
+      "Issue ID": "5",
+      "Issue Title": "\"Data Corruption\"",
+      "Reported Time": "\"2023-05-11 14:45:00\"",
+      "Owner": "\"Alex\"",
+      "Description": "\"Data integrity is compromised",
+      "Category": "Data_Team",
+      "Priority": "P1"
+    },
+    {
+      "ID": "6",
+      "Issue ID": "6",
+      "Issue Title": "\"Application Crashes\"",
+      "Reported Time": "\"2023-05-11 15:20:00\"",
+      "Owner": "\"Jessica\"",
+      "Description": "\"The application crashes randomly",
+      "Category": "Applications_Team",
+      "Priority": "P2"
+    },
+    {
+      "ID": "7",
+      "Issue ID": "7",
+      "Issue Title": "\"Password Reset Failure\"",
+      "Reported Time": "\"2023-05-11 16:10:00\"",
+      "Owner": "\"Michael\"",
+      "Description": "\"Users are unable to reset their passwords",
+      "Category": "General_Support",
+      "Priority": "P2"
+    },
+    {
+      "ID": "8",
+      "Issue ID": "8",
+      "Issue Title": "\"Printers Not Detected\"",
+      "Reported Time": "\"2023-05-11 17:00:00\"",
+      "Owner": "\"David\"",
+      "Description": "\"The printers connected to the network are not being detected by the devices.\"",
+      "Category": "General_Support",
+      "Priority": "P2"
+    },
+    {
+      "ID": "9",
+      "Issue ID": "9",
+      "Issue Title": "\"Email Delivery Delay\"",
+      "Reported Time": "\"2023-05-11 17:45:00\"",
+      "Owner": "\"Sophie\"",
+      "Description": "\"Emails are experiencing delays in delivery",
+      "Category": "General_Support",
+      "Priority": "P2"
+    },
+    {
+      "ID": "10",
+      "Issue ID": "10",
+      "Issue Title": "\"Software Compatibility Issue\"",
+      "Reported Time": "\"2023-05-11 18:30:00\"",
+      "Owner": "\"Olivia\"",
+      "Description": "\"The software is not compatible with the latest operating system",
+      "Category": "Applications_Team",
+      "Priority": "P3"
+    }
+  ]
+}
